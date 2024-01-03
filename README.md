@@ -24,3 +24,6 @@ Currently, two official plugins are available:
 
 `npm install three`
 
+## About
+
+The project goal is to create a 3D portfolio for myself. I'm doing this project by myself and the goal is to test 3D models on a website. 
