@@ -26,4 +26,4 @@ Currently, two official plugins are available:
 
 ## About
 
-The project goal is to create a 3D portfolio for myself. I'm doing this project by myself and the goal is to test 3D models on a website. 
+In my React + Vite 3D Portfolio project, I am embarking on a solo journey to craft a dynamic and immersive online showcase of my work. Fueled by the powerful combination of React for the user interface and Vite for a lightning-fast development environment, this endeavor aims to push the boundaries of traditional portfolios. The overarching goal is to seamlessly integrate 3D models into the website, elevating the user experience and providing a visually captivating representation of my skills and accomplishments.
