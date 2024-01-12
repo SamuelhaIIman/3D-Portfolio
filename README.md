@@ -33,3 +33,6 @@ Undertaking this project solo allows me to not only showcase my technical profic
 ## Pictures
 
 ![GitHub](https://github.com/SamuelhaIIman/3D-Portfolio/assets/144782909/e91387ad-35e2-4fe2-a4fb-7cbb0edd0609)
+
+
+![Näyttökuva 2024-01-12 234729](https://github.com/SamuelhaIIman/3D-Portfolio/assets/144782909/499e07fd-6468-4ef4-ae0f-865022553d48)
